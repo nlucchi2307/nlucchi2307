@@ -32,11 +32,12 @@ My master thesis — developed in collaboration with **INNOVA** — proposes a m
 
 ---
   
-## 🔍 Interests  
+## 🔍 Interests
+
 - 🧠 NLP for economics, public policy & real-time monitoring  
-- 📡 Online signals for nowcasting and early-warning systems  
-- 🏗️ Large-scale text pipelines 
-- 🔮 Integration of LLMs in pipelines   
+- 📡 Online signals for nowcasting, forecasting & early-warning systems  
+- 🏗️ Large-scale text pipelines & representation learning  
+- 🔮 Integrating LLMs into scalable, end-to-end analytical pipelines
 
 ---
 
@@ -44,6 +45,7 @@ My master thesis — developed in collaboration with **INNOVA** — proposes a m
 Feel free to reach out for collaborations or research discussions!  
 
 - ✉️ **Email:** *noemi.lucchi@bse.eu*  
-- 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/noemi-lucchi-8b9b1b253/)
+- 🔗**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noemi-lucchi-8b9b1b253/)
+
 
 
